@@ -38,4 +38,6 @@ public class Endereco {
 	private String bairro;
     @Column(nullable = false)
 	private String referencia;
+    
+    
 }
